@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Heisamrit.portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/Heisamrit.portfolio/static/js/main.310dbad8.js",
+    "static/js/453.438d9e50.chunk.js": "/Heisamrit.portfolio/static/js/453.438d9e50.chunk.js",
+    "static/media/pf.jpeg": "/Heisamrit.portfolio/static/media/pf.7fa2973721fc341452cb.jpeg",
+    "index.html": "/Heisamrit.portfolio/index.html",
+    "main.e6c13ad2.css.map": "/Heisamrit.portfolio/static/css/main.e6c13ad2.css.map",
+    "main.310dbad8.js.map": "/Heisamrit.portfolio/static/js/main.310dbad8.js.map",
+    "453.438d9e50.chunk.js.map": "/Heisamrit.portfolio/static/js/453.438d9e50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.310dbad8.js"
+  ]
+}
